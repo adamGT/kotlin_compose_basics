@@ -68,7 +68,6 @@ fun MessageCard(msg : Message){
     }
 }
 
-
 @Preview(name = "Light Mode")
 @Preview(
     uiMode = Configuration.UI_MODE_NIGHT_YES,
